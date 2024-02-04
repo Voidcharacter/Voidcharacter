@@ -1,7 +1,7 @@
 - 👋 Hi, I’m BHANU KORIBILLI (@Voicharacter)
-- 👀 I’m interested in ... Croud funding,web3,python
+- 👀 I’m interested in ... R&D and wabt to develop new things.
 - 🌱 I’m currently learning ...vlsi verification
-- 💞️ I’m looking to collaborate on ... Web3 development
+- 💞️ I’m looking to collaborate on ... Vlsi platform
 
 - 📫 How to reach me ...
 https://linkfly.to/Voidcharacter
