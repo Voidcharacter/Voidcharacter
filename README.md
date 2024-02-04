@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BHANU KORIBILLI (@Voicharacter)
-- 👀 I’m interested in ... R&D and wabt to develop new things.
+- 👀 I’m interested in ... R&D and want to develop new things.
 - 🌱 I’m currently learning ...vlsi verification
 - 💞️ I’m looking to collaborate on ... Vlsi platform
 
